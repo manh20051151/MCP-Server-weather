@@ -2,7 +2,7 @@
 
 > **Custom MCP Server** cung cấp dữ liệu thời tiết thực thời & lịch sử cho các AI Assistant (Claude, Cursor, VS Code Cline…) thông qua giao thức **Model Context Protocol (MCP)**.
 
-**Nguồn dữ liệu:** [Open-Meteo API](https://open-meteo.com/) — hoàn toàn miễn phí, không cần API key.
+
 
 ---
 
